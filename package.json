@@ -45,7 +45,7 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/Sandy-Shang/COMP229-MIDTERM"
   },
   "keywords": [
     "NodeJS",
@@ -55,7 +55,7 @@
   "author": "Sandy Shang",
   "license": "ISC",
   "bugs": {
-    "url": ""
+    "url": "https://github.com/Sandy-Shang/COMP229-MIDTERM"
   },
-  "homepage": ""
+  "homepage": "https://comp229-f2021-midterm.herokuapp.com/"
 }
